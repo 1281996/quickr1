@@ -1,0 +1,153 @@
+beans instances can be controlled by changing the value of---scope--- attribute in the bean tag
+
+
+
+java programming annotations are  supproted by spring container
+
+
+package that provides multipart functionality in spring--->ans:org.springframework.web.multipart
+
+
+which of the folwing is used toexceute query for static sql to read the resultset with a reseultsetextrctor
+
+
+spring Integration testing jar--->ans:spring-integration-test
+
+
+
+jdbc delete query syntax--->ans:update
+
+
+
+benfits of aspects programming-->all of the above
+
+
+
+this.jdbcTemplate.get() syntax
+
+
+auto poplate in spring
+
+what is datasource in spring
+
+which of the follwing is not type of advice in spring.(aop)
+
+spring boot is opinionated or not. true
+
+wht do u mean by dependency injection?
+
+diff btn simple jdbc termplate and jdbc termplate
+
+what is aspect in spring?defn
+
+diff btn point cut and join point
+
+scope of stateless bean in spring. singleton
+
+@controller can be applied for methods? no
+
+which class is connect spring with structs
+
+what is the root level package for email support--->.mail
+
+structs2 and spring integration
+
+
+@TRANSACTIONAL on CLASS level applies to wht methods?
+
+which annotation must be applied to service cls to mke transactional 
+
+what interface provides simpleway for transactional code to control transaction
+
+Types of advices in SpringAOP
+
+Method Replacer interface
+
+Spring Http Invoker
+
+Which strategy that allows java spring allows serialisation
+
+Which Build Tools supported by spring Boot framework out of box?
+
+return type of destroy methoid?? ans: void
+
+Before advice in spring
+
+How to declare 3 tier mvc layer ?
+
+What is Hibernate Template class
+
+Lazy and eager fetching in spring
+
+Java bean property is automatically populated by???
+
+Default autowire behaviour in spring
+
+insert statement in jdbctemplate?
+
+Can spring boot application handle multiple requests simultaneously??
+
+Response processor in oracle alert?
+
+to register a object that are created outside the container in spring??
+
+caching is a default mechanism in jdbctemplate-->true or false
+
+delegation proxy class
+
+linking struts and spring with delegation action proxy
+
+delegate struts action management helpful for spring integration
+
+transaction isolation
+
+jdbctemplate is threadsafe or not?
+
+return type of getUrl--->ans: public URL getUrl()extends IoException
+
+filenotfoundexception in spring
+
+Which is the default handler mapping used by dispatcher servlet??
+
+static factory method in spring declaration--->ans:Factory
+
+
+devtools supported by--->false
+
+ 
+internalResourceViewResolver maps incoming request to relevant controller true or false 
+
+
+methods available in jdbctemplate class 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

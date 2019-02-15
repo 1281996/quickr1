@@ -1,0 +1,21 @@
+#ThumbnailCarousel img {
+
+}
+
+
+#ThumbnailCarousel div {
+    height:250px;
+    width:100%;
+}
+
+
+#ThumbnailCarousel.carousel {
+    padding-top:30px;
+    text-align:center;
+}
+
+
+.col-md-3 
+.img-thumbnail {
+    height:100%;
+}
